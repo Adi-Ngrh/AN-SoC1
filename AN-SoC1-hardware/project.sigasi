@@ -1,0 +1,10 @@
+{
+    "name": "AN-SoC1-hardware",
+    "targets": {
+        "rtl": {
+            "libraryMapping": {
+                "": "work"
+            }
+        }
+    }
+}
